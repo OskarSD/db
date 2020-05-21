@@ -28,5 +28,27 @@
       "id": 7,
       "name": "William Eskil Fagerbakk"
     }
+  ],
+  "places": [
+    {
+      "id": 1,
+      "name": "Oslo"
+    },
+    {
+      "id": 2,
+      "name": "Tromso"
+    },
+    {
+      "id": 3,
+      "name": "Lillehammer"
+    },
+    {
+      "id": 4,
+      "name": "Trondelag"
+    },
+    {
+      "id": 5,
+      "name": "Fagernes"
+    }
   ]
 }
