@@ -2,15 +2,15 @@
   "people": [
     {
       "id": 1,
-      "name": "Wetle Wetlesen",
+      "name": "Wetle Wetlesen"
     },
     {
       "id": 2,
-      "name": "Eirik Wold",
+      "name": "Eirik Wold"
     },
     {
       "id": 3,
-      "name": "Erik Tveiten Nordal",
+      "name": "Erik Tveiten Nordal"
     },
     {
       "id": 4,
@@ -18,15 +18,15 @@
     },
     {
       "id": 5,
-      "name": "Oskar Stavdahl",
+      "name": "Oskar Stavdahl"
     },
     {
       "id": 6,
-      "name": "Simon Bachmann Karlsen",
+      "name": "Simon Bachmann Karlsen"
     },
     {
       "id": 7,
-      "name": "William Eskil Fagerbakk",
+      "name": "William Eskil Fagerbakk"
     }
   ]
 }
