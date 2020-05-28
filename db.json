@@ -52,39 +52,45 @@
     },
   ],
   "peopleGroup": [
-    "Jobb": [
-      {
-        "id": 1,
-        "name": "Wetle Wetlesen"
-      },
-      {
-        "id": 2,
-        "name": "Eirik Wold"
-      },
-    ],
-    "Skole": [
-      {
-        "id": 3,
-        "name": "Erik Tveiten Nordal"
-      },
-      {
-        "id": 4,
-        "name": "Mats Rossing"
-      },
-    ],
-    "Fotball": [
-      {
-        "id": 5,
-        "name": "Oskar Stavdahl"
-      },
-      {
-        "id": 6,
-        "name": "Simon Bachmann Karlsen"
-      },
-      {
-        "id": 7,
-        "name": "William Eskil Fagerbakk"
-      },
-    ],
+    {
+      "Jobb": [
+        {
+          "id": 1,
+          "name": "Wetle Wetlesen"
+        },
+        {
+          "id": 2,
+          "name": "Eirik Wold"
+        },
+      ]
+    },
+    {
+      "Skole": [
+        {
+          "id": 3,
+          "name": "Erik Tveiten Nordal"
+        },
+        {
+          "id": 4,
+          "name": "Mats Rossing"
+        },
+      ],
+    },
+    {
+      "Fotball": [
+        {
+          "id": 5,
+          "name": "Oskar Stavdahl"
+        },
+        {
+          "id": 6,
+          "name": "Simon Bachmann Karlsen"
+        },
+        {
+          "id": 7,
+          "name": "William Eskil Fagerbakk"
+        },
+      ],
+    },
   ],
 }
