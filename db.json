@@ -27,7 +27,7 @@
     {
       "id": 7,
       "name": "William Eskil Fagerbakk"
-    }
+    },
   ],
   "places": [
     {
@@ -49,7 +49,7 @@
     {
       "id": 5,
       "name": "Fagernes"
-    }
+    },
   ],
   "peopleGroup": [
     "Jobb": [
@@ -60,7 +60,7 @@
       {
         "id": 2,
         "name": "Eirik Wold"
-      }
+      },
     ],
     "Skole": [
       {
@@ -72,7 +72,7 @@
         "name": "Mats Rossing"
       },
     ],
-    "Fotball" [
+    "Fotball": [
       {
         "id": 5,
         "name": "Oskar Stavdahl"
@@ -84,7 +84,7 @@
       {
         "id": 7,
         "name": "William Eskil Fagerbakk"
-      }
-    ]
-  ]
+      },
+    ],
+  ],
 }
