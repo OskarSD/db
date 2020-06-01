@@ -2,31 +2,38 @@
   "people": [
     {
       "id": 1,
-      "name": "Wetle Wetlesen"
+      "name": "Wetle Wetlesen",
+      "address": "Wetleveien69"
     },
     {
       "id": 2,
-      "name": "Eirik Wold"
+      "name": "Eirik Wold",
+      "address": "Eirikveien69"
     },
     {
       "id": 3,
-      "name": "Erik Tveiten Nordal"
+      "name": "Erik Tveiten Nordal",
+      "address": "Erikveien69"
     },
     {
       "id": 4,
-      "name": "Mats Rossing"
+      "name": "Mats Rossing",
+      "address": "Matsveien69"
     },
     {
       "id": 5,
-      "name": "Oskar Stavdahl"
+      "name": "Oskar Stavdahl",
+      "address": "Oskarveien69"
     },
     {
       "id": 6,
-      "name": "Simon Bachmann Karlsen"
+      "name": "Simon Bachmann Karlsen",
+      "address": "Simonveien69"
     },
     {
       "id": 7,
-      "name": "William Eskil Fagerbakk"
+      "name": "William Eskil Fagerbakk",
+      "address": "Williamveien69"
     }
   ],
   "places": [
