@@ -1,61 +1,109 @@
 {
-  "people": [
+  "card": [
     {
       "id": 1,
-      "name": "Wetle Wetlesen",
-      "address": "Wetleveien69"
+      "name": "Airdude 1",
+      "type": "Air",
+      "life": "5",
+      "attack": "6",
+      "mana": "4",
+      "description": "Airdude uses air abilities, which does air damage"
     },
     {
       "id": 2,
-      "name": "Eirik Wold",
-      "address": "Eirikveien69"
+      "name": "Metaldude 1",
+      "type": "Metal",,
+      "life": "5",
+      "attack": "9",
+      "mana": "6",
+      "description": "Metaldude uses metal abilities, which does metal damage"
     },
     {
       "id": 3,
-      "name": "Erik Tveiten Nordal",
-      "address": "Erikveien69"
+      "name": "Icedude 1",
+      "type": "Ice",,
+      "life": "4",
+      "attack": "8",
+      "mana": "5",
+      "description": "Icedude uses ice abilities, which does ice damage"
     },
     {
       "id": 4,
-      "name": "Mats Rossing",
-      "address": "Matsveien69"
+      "name": "Icedude 2",
+      "type": "Ice",,
+      "life": "2",
+      "attack": "2",
+      "mana": "1",
+      "description": "Icedude uses ice abilities, which does ice damage"
     },
     {
       "id": 5,
-      "name": "Oskar Stavdahl",
-      "address": "Oskarveien69"
+      "name": "Earthdude 1",
+      "type": "Earth",,
+      "life": "7",
+      "attack": "7",
+      "mana": "4",
+      "description": "Earthdude uses earth abilities, which does earth damage"
     },
     {
       "id": 6,
-      "name": "Simon Bachmann Karlsen",
-      "address": "Simonveien69"
+      "name": "Firedude 1",
+      "type": "Fire",,
+      "life": "1",
+      "attack": "9",
+      "mana": "9",
+      "description": "Firedude uses fire abilities, which does fire damage"
     },
     {
       "id": 7,
-      "name": "William Eskil Fagerbakk",
-      "address": "Williamveien69"
+      "name": "Firedude 2",
+      "type": "Fire",,
+      "life": "7",
+      "attack": "3",
+      "mana": "4",
+      "description": "Firedude uses fire abilities, which does fire damage"
     }
   ],
-  "places": [
+  "type": [
     {
       "id": 1,
-      "name": "Oslo"
+      "name": "Fire",
+      "maxA": "9",
+      "minA": "3",
+      "maxL": "7",
+      "minL": "1"
     },
     {
       "id": 2,
-      "name": "Tromso"
+      "name": "Ice",
+      "maxA": "8",
+      "minA": "1",
+      "maxL": "8",
+      "minL": "2"
     },
     {
       "id": 3,
-      "name": "Lillehammer"
+      "name": "Earth",
+      "maxA": "9",
+      "minA": "4",
+      "maxL": "9",
+      "minL": "3"
     },
     {
       "id": 4,
-      "name": "Trondelag"
+      "name": "Air",
+      "maxA": "6",
+      "minA": "4",
+      "maxL": "6",
+      "minL": "4"
     },
     {
       "id": 5,
-      "name": "Fagernes"
+      "name": "Metal",
+      "maxA": "9",
+      "minA": "7",
+      "maxL": "6",
+      "minL": "5"
     }
   ]
 }
