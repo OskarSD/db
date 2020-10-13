@@ -12,7 +12,7 @@
     {
       "id": 2,
       "name": "Metaldude 1",
-      "type": "Metal",,
+      "type": "Metal",
       "life": "5",
       "attack": "9",
       "mana": "6",
@@ -21,7 +21,7 @@
     {
       "id": 3,
       "name": "Icedude 1",
-      "type": "Ice",,
+      "type": "Ice",
       "life": "4",
       "attack": "8",
       "mana": "5",
@@ -30,7 +30,7 @@
     {
       "id": 4,
       "name": "Icedude 2",
-      "type": "Ice",,
+      "type": "Ice",
       "life": "2",
       "attack": "2",
       "mana": "1",
@@ -39,7 +39,7 @@
     {
       "id": 5,
       "name": "Earthdude 1",
-      "type": "Earth",,
+      "type": "Earth",
       "life": "7",
       "attack": "7",
       "mana": "4",
@@ -48,7 +48,7 @@
     {
       "id": 6,
       "name": "Firedude 1",
-      "type": "Fire",,
+      "type": "Fire",
       "life": "1",
       "attack": "9",
       "mana": "9",
@@ -57,7 +57,7 @@
     {
       "id": 7,
       "name": "Firedude 2",
-      "type": "Fire",,
+      "type": "Fire",
       "life": "7",
       "attack": "3",
       "mana": "4",
