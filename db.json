@@ -98,15 +98,6 @@
       "attack": "3",
       "mana": "4",
       "description": "Firedude uses fire abilities, which does fire damage"
-    },
-    {
-      "id": 12,
-      "name": "Firedude 7",
-      "type": "Fire",
-      "life": "7",
-      "attack": "3",
-      "mana": "4",
-      "description": "Firedude uses fire abilities, which does fire damage"
     }
   ],
   "type": [
