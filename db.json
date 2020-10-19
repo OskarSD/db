@@ -44,60 +44,6 @@
       "attack": "7",
       "mana": "4",
       "description": "Earthdude uses earth abilities, which does earth damage"
-    },
-    {
-      "id": 6,
-      "name": "Firedude 1",
-      "type": "Fire",
-      "life": "1",
-      "attack": "9",
-      "mana": "9",
-      "description": "Firedude uses fire abilities, which does fire damage"
-    },
-    {
-      "id": 7,
-      "name": "Firedude 2",
-      "type": "Fire",
-      "life": "7",
-      "attack": "3",
-      "mana": "4",
-      "description": "Firedude uses fire abilities, which does fire damage"
-    },
-    {
-      "id": 8,
-      "name": "Firedude 3",
-      "type": "Fire",
-      "life": "7",
-      "attack": "3",
-      "mana": "4",
-      "description": "Firedude uses fire abilities, which does fire damage"
-    },
-    {
-      "id": 9,
-      "name": "Firedude 4",
-      "type": "Fire",
-      "life": "7",
-      "attack": "3",
-      "mana": "4",
-      "description": "Firedude uses fire abilities, which does fire damage"
-    },
-    {
-      "id": 10,
-      "name": "Firedude 5",
-      "type": "Fire",
-      "life": "7",
-      "attack": "3",
-      "mana": "4",
-      "description": "Firedude uses fire abilities, which does fire damage"
-    },
-    {
-      "id": 11,
-      "name": "Firedude 6",
-      "type": "Fire",
-      "life": "7",
-      "attack": "3",
-      "mana": "4",
-      "description": "Firedude uses fire abilities, which does fire damage"
     }
   ],
   "type": [
