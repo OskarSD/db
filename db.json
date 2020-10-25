@@ -3,8 +3,8 @@
 		{
 			"name": "Divine Storm",
 			"type": [
-				"name": "Light",
-				"color": "#FFFF7A"
+				"Light",
+				"#FFFF7A"
 			],
 			"life": "1",
 			"damage": "5",
@@ -13,8 +13,8 @@
 		{
 			"name": "Ice Dragon",
 			"type": [
-				"name": "Ice",
-				"color": "#10DEFF"
+				"Ice",
+				"#10DEFF"
 			],
 			"life": "7",
 			"damage": "9",
@@ -23,8 +23,8 @@
 		{
 			"name": "ManBearPig",
 			"type": [
-				"name": "Normal",
-				"color": "#766641"
+				"Normal",
+				"#766641"
 			],
 			"life": "2",
 			"damage": "1",
@@ -33,8 +33,8 @@
 		{
 			"name": "Hufsa",
 			"type": [
-				"name": "Ice",
-				"color": "#10DEFF"
+				"Ice",
+				"#10DEFF"
 			],
 			"life": "6",
 			"damage": "8",
