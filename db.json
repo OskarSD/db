@@ -58,8 +58,8 @@
       "lifeMax": "2",
       "damageMin": "1",
       "damageMax": "2",
-      "manaMin: "1",
-      "manaMax: "2"
+      "manaMin": "1",
+      "manaMax": "2"
     },
     {
       "name": "Fire",
@@ -67,8 +67,8 @@
       "lifeMax": "2",
       "damageMin": "1",
       "damageMax": "2",
-      "manaMin: "1",
-      "manaMax: "2"
+      "manaMin": "1",
+      "manaMax": "2"
     },
     {
       "name": "Ice",
@@ -76,8 +76,8 @@
       "lifeMax": "2",
       "damageMin": "1",
       "damageMax": "2",
-      "manaMin: "1",
-      "manaMax: "2"
+      "manaMin": "1",
+      "manaMax": "2"
     },
     {
       "name": "Light",
@@ -85,8 +85,8 @@
       "lifeMax": "2",
       "damageMin": "1",
       "damageMax": "2",
-      "manaMin: "1",
-      "manaMax: "2"
+      "manaMin": "1",
+      "manaMax": "2"
     }
   ]
 }
