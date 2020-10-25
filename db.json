@@ -1,1 +1,92 @@
-
+{
+	"card": [
+		{
+			"name": "Living Flame",
+			"type": {
+				"name": "Fire",
+				"color": "#FF0C00"
+			},
+			"life": "2",
+			"damage": "5",
+			"mana": "3"
+		},
+		{
+			"name": "Divine Storm",
+			"type": {
+				"name": "Light",
+				"color": "#FFFF7A"
+			},
+			"life": "1",
+			"damage": "5",
+			"mana": "3"
+		},
+		{
+			"name": "Ice Dragon",
+			"type": {
+				"name": "Ice",
+				"color": "#10DEFF"
+			},
+			"life": "7",
+			"damage": "9",
+			"mana": "7"
+		},
+		{
+			"name": "ManBearPig",
+			"type": {
+				"name": "Normal",
+				"color": "#766641"
+			},
+			"life": "2",
+			"damage": "1",
+			"mana": "1"
+		},
+		{
+			"name": "Hufsa",
+			"type": {
+				"name": "Ice",
+				"color": "#10DEFF"
+			},
+			"life": "6",
+			"damage": "8",
+			"mana": "6"
+		}
+	],
+  "type": [
+    {
+      "name": "Normal",
+      "lifeMin": "1",
+      "lifeMax": "2",
+      "damageMin": "1",
+      "damageMax": "2",
+      "manaMin": "1",
+      "manaMax": "2"
+    },
+    {
+      "name": "Fire",
+      "lifeMin": "1",
+      "lifeMax": "2",
+      "damageMin": "1",
+      "damageMax": "2",
+      "manaMin": "1",
+      "manaMax": "2"
+    },
+    {
+      "name": "Ice",
+      "lifeMin": "1",
+      "lifeMax": "2",
+      "damageMin": "1",
+      "damageMax": "2",
+      "manaMin": "1",
+      "manaMax": "2"
+    },
+    {
+      "name": "Light",
+      "lifeMin": "1",
+      "lifeMax": "2",
+      "damageMin": "1",
+      "damageMax": "2",
+      "manaMin": "1",
+      "manaMax": "2"
+    }
+  ]
+}
