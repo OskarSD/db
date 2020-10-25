@@ -1,7 +1,7 @@
 {
 	"card": [
 		{
-			"name": "Divine Storm",
+			"name": "Paladin",
 			"type": [
 				"Light",
 				"#E8DD00"
@@ -31,7 +31,7 @@
 			"mana": "1"
 		},
 		{
-			"name": "Frozen Core",
+			"name": "Yeti",
 			"type": [
 				"Ice",
 				"#10DEFF"
