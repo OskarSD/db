@@ -11,17 +11,17 @@
 			"mana": "3"
 		},
 		{
-			"name": "Ice Dragon",
+			"name": "Dragon",
 			"type": [
-				"Ice",
-				"#10DEFF"
+				"Fire",
+				"#FF0C00"
 			],
 			"life": "7",
 			"damage": "9",
 			"mana": "7"
 		},
 		{
-			"name": "ManBearPig",
+			"name": "Goblin",
 			"type": [
 				"Normal",
 				"#766641"
@@ -31,7 +31,7 @@
 			"mana": "1"
 		},
 		{
-			"name": "Hufsa",
+			"name": "Frozen Core",
 			"type": [
 				"Ice",
 				"#10DEFF"
