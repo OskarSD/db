@@ -1,145 +1,92 @@
 {
-  "card": [
-    {
-      "id": 1,
-      "name": "Airdude 1",
-      "type": "Air",
-      "life": "5",
-      "attack": "6",
-      "mana": "4",
-      "description": "Airdude uses air abilities, which does air damage"
-    },
-    {
-      "id": 2,
-      "name": "Metaldude 1",
-      "type": "Metal",
-      "life": "5",
-      "attack": "9",
-      "mana": "6",
-      "description": "Metaldude uses metal abilities, which does metal damage"
-    },
-    {
-      "id": 3,
-      "name": "Icedude 1",
-      "type": "Ice",
-      "life": "4",
-      "attack": "8",
-      "mana": "5",
-      "description": "Icedude uses ice abilities, which does ice damage"
-    },
-    {
-      "id": 4,
-      "name": "Icedude 2",
-      "type": "Ice",
-      "life": "2",
-      "attack": "2",
-      "mana": "1",
-      "description": "Icedude uses ice abilities, which does ice damage"
-    },
-    {
-      "id": 5,
-      "name": "Earthdude 1",
-      "type": "Earth",
-      "life": "7",
-      "attack": "7",
-      "mana": "4",
-      "description": "Earthdude uses earth abilities, which does earth damage"
-    },
-    {
-      "id": 6,
-      "name": "Firedude 1",
-      "type": "Fire",
-      "life": "1",
-      "attack": "9",
-      "mana": "9",
-      "description": "Firedude uses fire abilities, which does fire damage"
-    },
-    {
-      "id": 7,
-      "name": "Firedude 2",
-      "type": "Fire",
-      "life": "7",
-      "attack": "3",
-      "mana": "4",
-      "description": "Firedude uses fire abilities, which does fire damage"
-    },
-    {
-      "id": 8,
-      "name": "Firedude 3",
-      "type": "Fire",
-      "life": "7",
-      "attack": "3",
-      "mana": "4",
-      "description": "Firedude uses fire abilities, which does fire damage"
-    },
-    {
-      "id": 9,
-      "name": "Firedude 4",
-      "type": "Fire",
-      "life": "7",
-      "attack": "3",
-      "mana": "4",
-      "description": "Firedude uses fire abilities, which does fire damage"
-    },
-    {
-      "id": 10,
-      "name": "Firedude 5",
-      "type": "Fire",
-      "life": "7",
-      "attack": "3",
-      "mana": "4",
-      "description": "Firedude uses fire abilities, which does fire damage"
-    },
-    {
-      "id": 11,
-      "name": "Firedude 6",
-      "type": "Fire",
-      "life": "7",
-      "attack": "3",
-      "mana": "4",
-      "description": "Firedude uses fire abilities, which does fire damage"
-    }
-  ],
+	"card": [
+		{
+			"name": "Living Flame",
+			"type": {
+				"name": "Fire",
+				"color": "#FF0C00"
+			},
+			"life": "2",
+			"damage": "5",
+			"mana": "3"
+		},
+		{
+			"name": "Divine Storm",
+			"type": {
+				"name": "Light",
+				"color": "#FFFF7A"
+			},
+			"life": "1",
+			"damage": "5",
+			"mana": "3"
+		},
+		{
+			"name": "Ice Dragon",
+			"type": {
+				"name": "Ice",
+				"color": "#10DEFF"
+			},
+			"life": "7",
+			"damage": "9",
+			"mana": "7"
+		},
+		{
+			"name": "ManBearPig",
+			"type": {
+				"name": "Normal",
+				"color": "#766641"
+			},
+			"life": "2",
+			"damage": "1",
+			"mana": "1"
+		},
+		{
+			"name": "Hufsa",
+			"type": {
+				"name": "Ice",
+				"color": "#10DEFF"
+			},
+			"life": "6",
+			"damage": "8",
+			"mana": "6"
+		}
+	],
   "type": [
     {
-      "id": 1,
+      "name": "Normal",
+      "lifeMin": "1",
+      "lifeMax": "2",
+      "damageMin": "1",
+      "damageMax": "2",
+      "manaMin: "1",
+      "manaMax: "2"
+    },
+    {
       "name": "Fire",
-      "maxA": "9",
-      "minA": "3",
-      "maxL": "7",
-      "minL": "1"
+      "lifeMin": "1",
+      "lifeMax": "2",
+      "damageMin": "1",
+      "damageMax": "2",
+      "manaMin: "1",
+      "manaMax: "2"
     },
     {
-      "id": 2,
       "name": "Ice",
-      "maxA": "8",
-      "minA": "1",
-      "maxL": "8",
-      "minL": "2"
+      "lifeMin": "1",
+      "lifeMax": "2",
+      "damageMin": "1",
+      "damageMax": "2",
+      "manaMin: "1",
+      "manaMax: "2"
     },
     {
-      "id": 3,
-      "name": "Earth",
-      "maxA": "9",
-      "minA": "4",
-      "maxL": "9",
-      "minL": "3"
-    },
-    {
-      "id": 4,
-      "name": "Air",
-      "maxA": "6",
-      "minA": "4",
-      "maxL": "6",
-      "minL": "4"
-    },
-    {
-      "id": 5,
-      "name": "Metal",
-      "maxA": "9",
-      "minA": "7",
-      "maxL": "6",
-      "minL": "5"
+      "name": "Light",
+      "lifeMin": "1",
+      "lifeMax": "2",
+      "damageMin": "1",
+      "damageMax": "2",
+      "manaMin: "1",
+      "manaMax: "2"
     }
   ]
 }
