@@ -1,16 +1,6 @@
 {
 	"card": [
 		{
-			"name": "Living Flame",
-			"type": {
-				"name": "Fire",
-				"color": "#FF0C00"
-			},
-			"life": "2",
-			"damage": "5",
-			"mana": "3"
-		},
-		{
 			"name": "Divine Storm",
 			"type": {
 				"name": "Light",
