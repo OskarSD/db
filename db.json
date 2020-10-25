@@ -19,7 +19,7 @@
 			"life": "1",
 			"damage": "5",
 			"mana": "3"
-		},
+		},	s
 		{
 			"name": "Ice Dragon",
 			"type": {
@@ -51,42 +51,42 @@
 			"mana": "6"
 		}
 	],
-  "type": [
-    {
-      "name": "Normal",
-      "lifeMin": "1",
-      "lifeMax": "2",
-      "damageMin": "1",
-      "damageMax": "2",
-      "manaMin": "1",
-      "manaMax": "2"
-    },
-    {
-      "name": "Fire",
-      "lifeMin": "1",
-      "lifeMax": "2",
-      "damageMin": "1",
-      "damageMax": "2",
-      "manaMin": "1",
-      "manaMax": "2"
-    },
-    {
-      "name": "Ice",
-      "lifeMin": "1",
-      "lifeMax": "2",
-      "damageMin": "1",
-      "damageMax": "2",
-      "manaMin": "1",
-      "manaMax": "2"
-    },
-    {
-      "name": "Light",
-      "lifeMin": "1",
-      "lifeMax": "2",
-      "damageMin": "1",
-      "damageMax": "2",
-      "manaMin": "1",
-      "manaMax": "2"
-    }
-  ]
+	"type": [
+		{
+			"name": "Normal",
+			"lifeMin": "1",
+			"lifeMax": "2",
+			"damageMin": "1",
+			"damageMax": "2",
+			"manaMin": "1",
+			"manaMax": "2"
+		},
+		{
+			"name": "Fire",
+			"lifeMin": "1",
+			"lifeMax": "2",
+			"damageMin": "1",
+			"damageMax": "2",
+			"manaMin": "1",
+			"manaMax": "2"
+		},
+		{
+			"name": "Ice",
+			"lifeMin": "1",
+			"lifeMax": "2",
+			"damageMin": "1",
+			"damageMax": "2",
+			"manaMin": "1",
+			"manaMax": "2"
+		},
+		{
+			"name": "Light",
+			"lifeMin": "1",
+			"lifeMax": "2",
+			"damageMin": "1",
+			"damageMax": "2",
+			"manaMin": "1",
+			"manaMax": "2"
+		}
+	]
 }
