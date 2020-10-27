@@ -44,6 +44,7 @@
 	"type": [
 		{
 			"name": "Normal",
+			"color": "#766641",
 			"lifeMin": "1",
 			"lifeMax": "2",
 			"damageMin": "1",
@@ -53,6 +54,7 @@
 		},
 		{
 			"name": "Fire",
+			"color": "#FF0C00",
 			"lifeMin": "1",
 			"lifeMax": "2",
 			"damageMin": "1",
@@ -62,6 +64,7 @@
 		},
 		{
 			"name": "Ice",
+			"color": "#10DEFF",
 			"lifeMin": "1",
 			"lifeMax": "2",
 			"damageMin": "1",
@@ -71,6 +74,7 @@
 		},
 		{
 			"name": "Light",
+			"color": "#E8DD00",
 			"lifeMin": "1",
 			"lifeMax": "2",
 			"damageMin": "1",
