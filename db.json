@@ -44,6 +44,7 @@
 	"type": [
 		{
 			"name": "Normal",
+			"description": "Normal types are pretty normal",
 			"color": "#766641",
 			"lifeMin": "1",
 			"lifeMax": "2",
@@ -54,6 +55,7 @@
 		},
 		{
 			"name": "Fire",
+			"description": "Fire types are pretty lit",
 			"color": "#FF0C00",
 			"lifeMin": "1",
 			"lifeMax": "2",
@@ -64,6 +66,7 @@
 		},
 		{
 			"name": "Ice",
+			"description": "Ice types are pretty cold",
 			"color": "#10DEFF",
 			"lifeMin": "3",
 			"lifeMax": "4",
@@ -74,6 +77,7 @@
 		},
 		{
 			"name": "Light",
+			"description": "Light types are pretty bright",
 			"color": "#E8DD00",
 			"lifeMin": "5",
 			"lifeMax": "6",
