@@ -57,30 +57,30 @@
 			"color": "#FF0C00",
 			"lifeMin": "1",
 			"lifeMax": "2",
-			"damageMin": "1",
-			"damageMax": "2",
-			"manaMin": "1",
-			"manaMax": "2"
+			"damageMin": "3",
+			"damageMax": "4",
+			"manaMin": "5",
+			"manaMax": "6"
 		},
 		{
 			"name": "Ice",
 			"color": "#10DEFF",
-			"lifeMin": "1",
-			"lifeMax": "2",
-			"damageMin": "1",
-			"damageMax": "2",
+			"lifeMin": "3",
+			"lifeMax": "4",
+			"damageMin": "5",
+			"damageMax": "6",
 			"manaMin": "1",
 			"manaMax": "2"
 		},
 		{
 			"name": "Light",
 			"color": "#E8DD00",
-			"lifeMin": "1",
-			"lifeMax": "2",
+			"lifeMin": "5",
+			"lifeMax": "6",
 			"damageMin": "1",
 			"damageMax": "2",
-			"manaMin": "1",
-			"manaMax": "2"
+			"manaMin": "3",
+			"manaMax": "4"
 		}
 	]
 }
