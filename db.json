@@ -44,7 +44,7 @@
 	"type": [
 		{
 			"name": "Normal",
-			"description": "Normal types are pretty normal and boring AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+			"description": "Normal types are pretty normal and boring AAAAAAAAAAAAAAAAAAAAAAAAAAAA",
 			"color": "#766641",
 			"lifeMin": "1",
 			"lifeMax": "2",
