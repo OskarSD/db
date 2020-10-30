@@ -44,7 +44,7 @@
 	"type": [
 		{
 			"name": "Normal",
-			"description": "a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a aa",
+			"description": "Normal types are pretty normal and boring AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
 			"color": "#766641",
 			"lifeMin": "1",
 			"lifeMax": "2",
@@ -66,7 +66,7 @@
 		},
 		{
 			"name": "Ice",
-			"description": "Ice types are pretty cold",
+			"description": "Ice types are pretty cool",
 			"color": "#10DEFF",
 			"lifeMin": "3",
 			"lifeMax": "4",
